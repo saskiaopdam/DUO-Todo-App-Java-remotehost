@@ -11,6 +11,7 @@ public class Todo {
     @GeneratedValue(strategy=GenerationType.IDENTITY)
     int id;
     String task;
+    boolean isChecked;
 
     public int getId() {
         return id;
