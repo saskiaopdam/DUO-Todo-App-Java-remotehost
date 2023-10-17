@@ -13,6 +13,14 @@ public class Todo {
     String task;
     boolean isChecked;
 
+    public boolean isChecked() {
+        return isChecked;
+    }
+
+    public void setChecked(boolean checked) {
+        isChecked = checked;
+    }
+
     public int getId() {
         return id;
     }
