@@ -11,14 +11,14 @@ public class Todo {
     @GeneratedValue(strategy=GenerationType.IDENTITY)
     int id;
     String task;
-    boolean isChecked;
+    boolean checked;
 
     public boolean isChecked() {
-        return isChecked;
+        return checked;
     }
 
     public void setChecked(boolean checked) {
-        isChecked = checked;
+        this.checked = checked;
     }
 
     public int getId() {
