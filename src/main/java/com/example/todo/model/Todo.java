@@ -13,7 +13,7 @@ public class Todo {
     String task;
     boolean checked;
 
-    public boolean isChecked() {
+    public boolean getChecked() {
         return checked;
     }
 
