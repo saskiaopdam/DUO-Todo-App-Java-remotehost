@@ -1,4 +1,4 @@
-# Todo App Java
+# Todo App
 
 DUO Java Masterclass project
 
