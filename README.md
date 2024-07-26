@@ -4,9 +4,15 @@ DUO Java Masterclass project (September-October 2023)
 
 ## Deploy
 
-Deployed on localhost. Remote options - mariaDB - Heroku?
+Exploring Heroku:
 
-- [Todo Demo Video](https://youtu.be/kooHEsm1vi0)
+- [Guide to Stackhero for MariaDB](https://devcenter.heroku.com/articles/ah-mariadb-stackhero)
+- Papertrail add-on for full logs
+- App accessible, Application Error (access denied)
+
+Originally on localhost:
+- [Local Host Code](https://github.com/saskiaopdam/DUO-Todo-App-Java-localhost)
+- [Local Host Video](https://youtu.be/kooHEsm1vi0)
 
 ## Inspiration
 
