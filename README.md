@@ -1,10 +1,10 @@
 # Todo App Java
 
-DUO Java Masterclass project (september-oktober 2023)
+DUO Java Masterclass project (September-October 2023)
 
 ## Deploy
 
-Deployed on localhost.
+Deployed on localhost. Remote options - mariaDB - Heroku?
 
 - [Todo Demo Video](https://youtu.be/kooHEsm1vi0)
 
