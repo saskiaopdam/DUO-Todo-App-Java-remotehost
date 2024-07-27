@@ -4,11 +4,9 @@ DUO Java Masterclass project (September-October 2023)
 
 ## Deploy
 
-Exploring Heroku:
-
+Currently on Heroku (paid):
+- [Live on Heroku](https://duo-todo-app-java-5b713e6535ff.herokuapp.com/)
 - [Guide to Stackhero for MariaDB](https://devcenter.heroku.com/articles/ah-mariadb-stackhero)
-- Papertrail add-on for full logs
-- App accessible, Application Error (access denied)
 
 Originally on localhost:
 - [Local Host Code](https://github.com/saskiaopdam/DUO-Todo-App-Java-localhost)
