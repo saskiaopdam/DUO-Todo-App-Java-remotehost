@@ -10,8 +10,9 @@ public class HomeController {
     @GetMapping("/")
     public String home() {
         return "<h1>Welcome to the Todo App</h1>" +
-                "<h2>This is the backend: https://duo-todo-app-java-5b713e6535ff.herokuapp.com/</h>" +
-                "<h2>This is the frontend: https://duo-todo-app-angular-88e1837166f5.herokuapp.com/</h>" +
+                "<p>You are looking at the backend.<p>" +
+                "<li>Backend url: https://duo-todo-app-java-5b713e6535ff.herokuapp.com/</li>" +
+                "<li>Frontend url: https://duo-todo-app-angular-88e1837166f5.herokuapp.com/</li>" +
                 "<p>Add /todo to the url to see the backend at /todo endpoint.<p>";
     }
 }
