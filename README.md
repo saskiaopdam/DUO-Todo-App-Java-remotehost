@@ -5,7 +5,7 @@ DUO Java Masterclass project (September-October 2023)
 ## Deploy
 
 Currently on Heroku (paid):
-- [Backend Live on Heroku](https://duo-todo-app-java-5b713e6535ff.herokuapp.com/todo)
+- [Backend Live on Heroku](https://duo-todo-app-java-5b713e6535ff.herokuapp.com/)
 - [Guide to Stackhero for MariaDB](https://devcenter.heroku.com/articles/ah-mariadb-stackhero)
 
 Visit the frontend:
