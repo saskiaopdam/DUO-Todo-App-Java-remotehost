@@ -9,10 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
     @GetMapping("/")
     public String home() {
-        return "<h1>Welcome to the Todo App - Backend</h1>" +
-                "<h2>Check out the Endpoint: /todo</h2>" +
+        return "<h1>Todo App API</h1>" +
 
-                "<li>Backend url: https://duo-todo-app-java-5b713e6535ff.herokuapp.com/</li>" +
-                "<li>Frontend url: https://duo-todo-app-angular-88e1837166f5.herokuapp.com/</li>";
+                "<h2><li><a href=https://duo-todo-app-java-5b713e6535ff.herokuapp.com/todo>Backend: /todo</a></li>" +
+                "<h2><li><a href=https://duo-todo-app-java-5b713e6535ff.herokuapp.com/todo/1>Backend: /todo/{id}</a></li>" +
+
+                "<h2><li><a href=https://duo-todo-app-angular-88e1837166f5.herokuapp.com/>Frontend: all CRUD</a></li></h2>";
     }
 }
