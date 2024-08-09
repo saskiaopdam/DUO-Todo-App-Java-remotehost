@@ -4,6 +4,9 @@ DUO Java Masterclass project (September-October 2023)
 
 ## Deploy
 
+Transition to free deployment:
+- MariaDB add-on -> file-based HSQLDB (free)
+  
 Currently on Heroku (paid):
 - [Backend Live on Heroku](https://duo-todo-app-java-5b713e6535ff.herokuapp.com/)
 - [Guide to Stackhero for MariaDB](https://devcenter.heroku.com/articles/ah-mariadb-stackhero)
